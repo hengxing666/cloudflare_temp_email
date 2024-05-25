@@ -45,7 +45,7 @@ const { t } = useI18n({
     locale: localeCache.value || 'zh',
     messages: {
         en: {
-            title: 'Cloudflare Temp Email',
+            title: 'HengXin Temp Email',
             dark: 'Dark',
             light: 'Light',
             accessHeader: 'Access Password',
@@ -56,7 +56,7 @@ const { t } = useI18n({
             ok: 'OK',
         },
         zh: {
-            title: 'Cloudflare 临时邮件',
+            title: '恒心驿站',
             dark: '暗色',
             light: '亮色',
             accessHeader: '访问密码',
