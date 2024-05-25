@@ -15,7 +15,7 @@ export const useGlobalState = createGlobalState(
             enableAutoReply: false,
             enableIndexAbout: false,
             domains: [],
-            copyright: 'Dream Hunter',
+            copyright: 'Heng Xin',
             cfTurnstileSiteKey: '',
         })
         const settings = ref({
